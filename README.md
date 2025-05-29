@@ -11,10 +11,10 @@ Once they’ve gathered enough information, they can move on to the next room ba
 Decisions shape the experience—what they discover or fail to find affects their journey.
 
 ## Features
-TODO: Interactive Exploration – Investigate rooms, uncover secrets, and make critical decisions.
+**TODO:** Interactive Exploration – Investigate rooms, uncover secrets, and make critical decisions.
 
 Multi-Room Progression – Navigate through a structured map with branching paths.
 
-TODO: Loot & Challenges – Find items, trigger events, and overcome obstacles.
+**TODO:** Loot & Challenges – Find items, trigger events, and overcome obstacles.
 
 Discord-Based Gameplay – No external application required—everything happens inside Discord!
